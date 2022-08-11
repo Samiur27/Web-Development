@@ -1,0 +1,159 @@
+h1{
+    color: red;
+    background-color: white;
+}
+
+.purple-font{
+    color: purple;
+    font-weight: 100;
+
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+#blue-font{
+    color: darkblue;
+    font-weight: 100;
+
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+.deep-pink{
+    color:deeppink;
+    font-weight: 100;
+
+    font-size: 20px;
+
+    text-align: center;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+    
+}
+#a{
+    color: crimson;
+    font-weight: 100;
+
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+#b{
+    color: indigo;
+    font-weight: 100;
+
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+#c{
+    color:chocolate;
+    font-weight: 100;
+
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+.h{
+    color:darkgreen;
+    background-color: white;
+    font-weight: 1000;
+
+    font-size: 30px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+th, td {
+    border: 1px solid black;
+    color: brown;
+    font-size: 30px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+
+table {
+    border-collapse: collapse;
+
+    width: 80%;
+    text-align: center;
+}
+.s{
+    font-size: 30px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+.g{
+    color: darkred;
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
+.x{
+    font-size: 20px;
+
+    text-align: left;
+
+    letter-spacing: 0px;
+
+    word-spacing: 5px;
+
+    line-height: 30px;
+}
